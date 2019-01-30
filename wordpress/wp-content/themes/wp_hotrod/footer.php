@@ -17,10 +17,10 @@
 </footer>
 
 <div class="social-bar">
-    <a href="https://www.facebook.com/Hot-Rod-Tattoo-Av-Italia-1963574053874313/" class="icon icon-facebook" target="_blank"></a>
-    <a href="https://twitter.com/" class="icon icon-twitter" target="_blank"></a>
-    <a href="#" class="icon icon-whatsapp" target="_blank"></a>
-    <a href="https://www.instagram.com/hotrod_tatuajes/" class="icon icon-instagram" target="_blank"></a>
+    <a href="https://www.facebook.com/Hot-Rod-Tattoo-Av-Italia-1963574053874313/" class="icon icon-facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://twitter.com/" class="icon icon-twitter" target="_blank"> <i class="fab fa-twitter"></i></a>
+    <a href="#" class="icon icon-whatsapp" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://www.instagram.com/hotrod_tatuajes/" class="icon icon-instagram" target="_blank"><i class="fab fa-instagram"></i></a>
   </div>
 
 </body>

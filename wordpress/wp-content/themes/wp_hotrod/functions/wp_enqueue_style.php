@@ -39,6 +39,7 @@ function dl_enqueue_style() {
 	wp_register_style( 'styles', get_theme_file_uri( '/assets/css/styles.css'), $deps, $theme_data->get( 'Version' ), 'screen' );
 	
 	
+	
 
 	
 
@@ -59,6 +60,7 @@ function dl_enqueue_style() {
 
 	wp_enqueue_style( 'main_style' );
 	wp_enqueue_style( 'styles' );
+	
 	
 
 }

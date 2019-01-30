@@ -34,7 +34,7 @@
 <!-- team -->
 
 
-    <div class="container">
+    <div class="container container__media">
         <div class="row">
             <div class="col-md-12">
                 <h1 class="text-center text-primary">Team</h1>
@@ -46,17 +46,17 @@
             <div class="col-md-4">
                <img src="<?php the_theme_file_uri('assets/images/alee.jpg')?>" alt="" class= "img-responsive center-block img-circle" />
                <h3 class="text-center">Alejandro Tilleria</h3>
-               <p class="text-center">Tatuador</p>
+               <p class="text-center  text-center-2">Tatuador</p>
            </div>
            <div class="col-md-4">
            	<img src="<?php the_theme_file_uri('assets/images/pipee.jpg')?>" alt="" class= "img-responsive center-block img-circle" />
             <h3 class="text-center">Felipe León</h3>
-            <p class="text-center">Tatuador</p>
+            <p class="text-center  text-center-2">Tatuador</p>
         </div>
         <div class="col-md-4">
         	<img src="<?php the_theme_file_uri('assets/images/seba.jpg')?>" alt="" class= "img-responsive center-block img-circle" />
            <h3 class="text-center">Sebastian Palma</h3>
-           <p class="text-center">Tatuador</p>
+           <p class="text-center  text-center-2">Tatuador</p>
        </div>
    </div>
 </div>

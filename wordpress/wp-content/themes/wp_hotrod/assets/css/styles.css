@@ -1,6 +1,7 @@
 *{
 	margin: 0px;
   	padding: 0px;
+  	box-sizing: border-box;
 }
 
 body {
@@ -182,5 +183,120 @@ label, input{
 	padding-right: 3rem;
 	border-radius: 1rem 0 0 1rem;
 	box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.42);
+}
+
+@media (min-width:480px) { 
+	.imagen-principal{
+	background-image: url('../images/hotok.jpg');
+	background-size: 100%;
+	height: 54vh;
+	background-repeat: no-repeat;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	
+}
+
+.imagen-principal h1{
+	font-size: 30px;
+	margin-top: 50px;
+}
+
+.imagen-principal p{
+	font-size: 20px;
+	font-family: 'Amaranth', sans-serif;
+}
+
+.btn-default{
+	font-family: 'Amaranth', sans-serif;
+	visibility: hidden;
+}
+.section{
+	padding-top: 77px;
+	 
+}
+
+.section-primary p{
+	color: black;
+}
+.section h1{
+	color: white;
+	font-family: 'Lobster', cursive;
+}
+.section p{
+	color: white;
+}
+
+.jumbotron{
+	background-image: url(../images/foto3.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position:center;
+	color: white;
+}
+
+.jumbotron h1{
+	color: white;
+	font-family: 'Lobster', cursive;
+	margin-top: 64px;
+}
+
+.text-primary, .text-center {
+    color: white;
+    margin-bottom: 46px;
+    font-family: 'Lobster', cursive;
+    font-size: 22px;
+    
+}
+.text-primary{
+	 font-size:35px;
+}
+.section__historia h1,h3,p{
+	color: white;
+
+}
+
+
+.container__media img{
+	max-width: 65%;
+    height: auto;
+    margin-top:-60px;
+    text-align: center;
+}
+
+.text-center-2{
+	visibility: hidden;
+}
+
+.jumbotron__beer{
+	background-image: url('../images/lata.jpg');
+	background-repeat: no-repeat;
+	font-family: 'Lobster', cursive;
+	margin-bottom:  -96px;
+	margin-top: -13px;
+}
+
+.ibody{
+	margin: 30px auto;
+	width: 334px;
+	color: white;
+}
+
+.ibody h1{
+	font-size: 31px;
+	text-align: center;
+	padding: 20px;
+	font-family: 'Lobster', cursive;
+}
+
+.container h1{
+	color: white;
+	font-family: 'Lobster', cursive;
+}
+#map {
+        width: 100%;
+        height: 50vh;
+        margin-bottom: 40px;
+        margin-top: 30px;
+      }
 }
 
