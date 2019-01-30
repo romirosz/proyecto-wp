@@ -37,7 +37,6 @@ function dl_enqueue_style() {
 	wp_register_style( 'fontawesome', get_theme_file_uri( '/assets/css/fontawesome.css'), null, '5.6.3', 'screen' );
 	wp_register_style( 'main_style', get_theme_file_uri( '/assets/css/style.css'), $deps, $theme_data->get( 'Version' ), 'screen' );
 	wp_register_style( 'styles', get_theme_file_uri( '/assets/css/styles.css'), $deps, $theme_data->get( 'Version' ), 'screen' );
-	wp_register_style( 'fonts', get_theme_file_uri( '/assets/css/font.css'), $deps, $theme_data->get( 'Version' ), 'screen' );
 	
 	
 
@@ -60,7 +59,7 @@ function dl_enqueue_style() {
 
 	wp_enqueue_style( 'main_style' );
 	wp_enqueue_style( 'styles' );
-	wp_enqueue_style( 'fonts' );
+	
 
 }
 
