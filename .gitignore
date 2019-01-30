@@ -29,8 +29,6 @@ wordpress/wp-content/upgrade/
 wordpress/wp-content/wp-cache-config.php
 wordpress/wp-content/plugins/hello.php
 
-.gitignore
-
 /license.txt
 readme.html
 /sitemap.xml

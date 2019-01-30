@@ -107,18 +107,18 @@
    </div>
    <div class="row">
       <div class="col-md-4">
-         <a><img src="assets/images/pipe1.jpg" alt="" class= "img-responsive"/></a>
+           <a><img src="<?php the_theme_file_uri('assets/images/pipe1.jpg')?>" alt="" class= "img-responsive" /></a>
          <h3 class="text-center">Felipe</h3> 
          
      </div>
      <div class="col-md-4"> 
-        <a><img src="assets/images/pipe2.jpg" alt="" class= "img-responsive"/></a>
+        <a><img src="<?php the_theme_file_uri('assets/images/pipe2.jpg')?>" alt="" class= "img-responsive" /></a>
         <h3 class="text-center">Felipe</h3>
         
     </div>
     <div class="col-md-4"> 
 
-        <a><img src="assets/images/pipe3.jpg" alt="" class= "img-responsive"/></a>
+        <a><img src="<?php the_theme_file_uri('assets/images/pipe3.jpg')?>" alt="" class= "img-responsive" />></a>
         <h3 class="text-center">Felipe</h3> 
         
     </div>
@@ -126,18 +126,18 @@
 </div>
 <div class="row">
   <div class="col-md-4">
-     <a><img src="assets/images/tatuajeale2.jpg" alt="" class= "img-responsive"/></a>
+     <a><img src="<?php the_theme_file_uri('assets/images/tatuajeale2.jpg')?>" alt="" class= "img-responsive" /></a>
      <h3 class="text-center">Alejandro</h3> 
      
  </div>
  <div class="col-md-4"> 
-    <a><img src="assets/images/tatuajeale3.jpg" alt="" class= "img-responsive"/></a>
+    <a><img src="<?php the_theme_file_uri('assets/images/tatuajeale3.jpg')?>" alt="" class= "img-responsive" /></a>
     <h3 class="text-center">Alejandro</h3>
     
 </div>
 <div class="col-md-4"> 
 
-    <a><img src="assets/images/tatuajeale4.jpg" alt="" class= "img-responsive"/></a> 
+    <a><img src="<?php the_theme_file_uri('assets/images/tatuajeale4.jpg')?>" alt="" class= "img-responsive" /></a>
     <h3 class="text-center">Alejandro</h3> 
     
 </div>
@@ -145,17 +145,17 @@
 </div>
 <div class="row"> 
     <div class="col-md-4"> 
-        <a><img src="assets/images/sebatatuaje1.jpg" alt="" class= "img-responsive"/></a>
+        <a><img src="<?php the_theme_file_uri('assets/images/sebatatuaje1.jpg')?>" alt="" class= "img-responsive" /></a>
         <h3 class="text-center">Sebastian</h3> 
         
     </div>
     <div class="col-md-4">
-      <a><img src="assets/images/sebatatuaje2.jpg" alt="" class= "img-responsive"/></a> 
+      <a><img src="<?php the_theme_file_uri('assets/images/sebatatuaje2.jpg')?>" alt="" class= "img-responsive" /></a>
       <h3 class="text-center">Sebastian</h3> 
       
   </div>
   <div class="col-md-4">
-     <a><img src="assets/images/sebatatuaje3.jpg" alt="" class= "img-responsive"/></a>
+     <a><img src="<?php the_theme_file_uri('assets/images/sebatatuaje3.jpg')?>" alt="" class= "img-responsive" /></a>
      <h3 class="text-center">Sebastian</h3>
      
  </div>
