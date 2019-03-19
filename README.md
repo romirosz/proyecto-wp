@@ -1,4 +1,4 @@
-Profe ya realicé los cambios ,hice unos custo mpost types , una galeria y agregué un mapa,espero sumarlos puntos que me faltan,
+Profe ya realicé los cambios ,hice unos custom post types , una galeria y agregué un mapa,espero sumar los puntos que me faltan,
 no tuve tiempo de hacer mas :c  ,gracias.
 
 
