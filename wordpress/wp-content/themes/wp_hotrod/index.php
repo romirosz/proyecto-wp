@@ -209,24 +209,14 @@
 
 
 <div class="container">
-  
   <div class="row">
     <div class="col-md-6">
-      <div id="map"></div>
+      <h1>Nuestra Tienda</h1>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.3115885426514!2d-70.62864098480087!3d-33.44118778077664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c581e8c44e4d%3A0x4d527f296866c99!2sAv.+Italia+686%2C+Providencia%2C+Regi%C3%B3n+Metropolitana!5e0!3m2!1ses-419!2scl!4v1552964451727" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
-
-    <div class="col-md-6">
-      <h1>Nuestras Tiendas</h1>
-      <div class="form-group">
-        <select class="form-control" id="select">
-          <option value="">Seleccione una ubicación</option>
-          <option value="scl">Av Italia 686, Providencia, Región Metropolitana</option>
-          <option value="lsc">Alberto solari 1400 ,La serena,Cuarta Región</option>
-        </select>
-      </div>
     </div>
   </div>
-</div>
+
 <?php get_sidebar() ?>
 
 <?php get_footer() ?>
